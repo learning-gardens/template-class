@@ -1,0 +1,1 @@
+You should use nested directories to organize sub-projects, or groups within your study group.
